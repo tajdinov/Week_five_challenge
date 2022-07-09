@@ -7,6 +7,9 @@ Homework-5 Day-Planner
 * ['Day-Planner GitHub']()
 * ['Day-Planner GitHub IO']()
 
+![](Assets/Screen1.png)
+![](Assets/Screen2.png)
+
 ### Summary
 * HTML and CSS and Javascript documents create a day planner with an eight-hour work day
 * The task manager aspect saves entries to local storage
