@@ -4,8 +4,8 @@ Day Planner
 Homework-5 Day-Planner
 ## Jamie Morris Homework-5 Code Quiz
 
-* ['Day-Planner GitHub']()
-* ['Day-Planner GitHub IO']()
+* ['Day-Planner GitHub'](https://github.com/tajdinov/Week_five_challenge)
+* ['Day-Planner GitHub IO'](https://tajdinov.github.io/Week_five_challenge/)
 
 ![](Assets/Screen1.png)
 ![](Assets/Screen2.png)
